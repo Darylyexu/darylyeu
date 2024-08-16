@@ -11,10 +11,6 @@
 =====
 下载MdEditorPlus.zip解压到`\Plugin`文件夹内，确保文件夹名称为`MdEditorPlus`。
 
-参考链接
-====
-[Darylyexu's Blog](https://www.darylyexu.top:8888/)
-
 额外说明
 ====
 
@@ -55,3 +51,7 @@
             buttons.exitFullscreen.execute = function () { fullScreenManager.doFullScreen(buttons, false); };
 ```
 旧版本以及各家魔改版本class名称可能不同，请灵活变通。
+
+参考链接
+====
+更多魔改参考：[Darylyexu's Blog](https://www.darylyexu.top:8888/)
